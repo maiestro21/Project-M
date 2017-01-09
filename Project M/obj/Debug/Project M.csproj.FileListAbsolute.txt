@@ -1,0 +1,14 @@
+c:\users\puiu_\documents\visual studio 2013\Projects\Project M\Project M\bin\Debug\Project M.exe.config
+c:\users\puiu_\documents\visual studio 2013\Projects\Project M\Project M\bin\Debug\Project M.exe
+c:\users\puiu_\documents\visual studio 2013\Projects\Project M\Project M\bin\Debug\Project M.pdb
+c:\users\puiu_\documents\visual studio 2013\Projects\Project M\Project M\obj\Debug\Project M.csprojResolveAssemblyReference.cache
+c:\users\puiu_\documents\visual studio 2013\Projects\Project M\Project M\obj\Debug\Project_M.Form1.resources
+c:\users\puiu_\documents\visual studio 2013\Projects\Project M\Project M\obj\Debug\Project_M.Properties.Resources.resources
+c:\users\puiu_\documents\visual studio 2013\Projects\Project M\Project M\obj\Debug\Project M.csproj.GenerateResource.Cache
+c:\users\puiu_\documents\visual studio 2013\Projects\Project M\Project M\obj\Debug\Project M.exe
+c:\users\puiu_\documents\visual studio 2013\Projects\Project M\Project M\obj\Debug\Project M.pdb
+c:\users\puiu_\documents\visual studio 2013\Projects\Project M\Project M\bin\Debug\MetroFramework.Design.dll
+c:\users\puiu_\documents\visual studio 2013\Projects\Project M\Project M\bin\Debug\MetroFramework.dll
+c:\users\puiu_\documents\visual studio 2013\Projects\Project M\Project M\bin\Debug\MetroFramework.Fonts.dll
+c:\users\puiu_\documents\visual studio 2013\Projects\Project M\Project M\bin\Debug\NAudio.dll
+c:\users\puiu_\documents\visual studio 2013\Projects\Project M\Project M\bin\Debug\NAudio.xml
